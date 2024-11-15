@@ -1,0 +1,1 @@
+This program helps to compute the integral, derivative and logarithmic values of any function using Python, enabling quick processing of mathematical functions that might take a lot of time if done on pen and paper.
